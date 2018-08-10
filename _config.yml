@@ -1,5 +1,6 @@
 # Site settings
-title: Hello Jay Wonjae Jung's World
+title: Mechanic Jay    Robotics/AI Engineer, Designer, Life Artist
+
 description: 'Jekyll-Uno - a minimal, responsive theme for Jekyll'
 url: 'http://joshgerdes.com/jekyll-uno'
 baseurl: ""
@@ -7,12 +8,12 @@ baseurl: ""
 # disqus_shortname: 'your-disqus-name'
 
 author:
-  name: 'Josh Gerdes'
-  email: josh@joshgerdes.com
-  twitter_username: joshgerdes
-  facebook_username: joshgerdes
-  github_username:  joshgerdes
-  linkedin_username:  joshgerdes
+  name: 'Jay Wonjae Jung'
+  email: jwonj1126@snu.ac.kr
+  # twitter_username: joshgerdes
+  facebook_username: wonjae jung
+  github_username:  JayWonjaeJung
+  # linkedin_username:  joshgerdes
 
 defaults:
   -
